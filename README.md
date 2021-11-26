@@ -18,8 +18,7 @@
   <a href="https://www.instagram.com/gabii_vieiraaa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
 
-### girl_tone2 Sobre mim 
-Meu nome é Gabrielli da Costa, estou atualmente fazendo um curso tecnico de ciências da computação, onde estou aprendendo sobre redes e também estou aprendendo python, você pode ver minha evolução na nos meus repositorios, irei postar meus projetos em Python e em Portugol.
+🙋🏻‍♀️ Meu nome é Gabrielli da Costa, estou atualmente fazendo um curso tecnico de ciências da computação, onde estou aprendendo sobre redes e também estou aprendendo python, você pode ver minha evolução na nos meus repositorios, irei postar meus projetos em Python e em Portugol.
 
 
 ”A arte de programar consiste em organizar e dominar a complexidade. ”.🌺
