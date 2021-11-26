@@ -22,7 +22,7 @@
 Meu nome é Gabrielli da Costa, estou atualmente fazendo um curso tecnico de ciências da computação, onde estou aprendendo sobre redes e também estou aprendendo python, você pode ver minha evolução na nos meus repositorios, irei postar meus projetos em Python e em Portugol.
 
 
-” A arte de programar consiste em organizar e dominar a complexidade. ”. electric_plughibiscus
+”A arte de programar consiste em organizar e dominar a complexidade. ”.🌺
 
  
 
